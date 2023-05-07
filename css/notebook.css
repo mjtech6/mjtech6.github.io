@@ -1,0 +1,74 @@
+body {
+    width: 75%;
+    margin: 0 auto;
+}
+
+#main {
+    margin: 10px 10%;
+
+    background-color: rgba(224, 201, 166, 0.33);
+    background-size: 20px 20px;
+    background-image:
+            linear-gradient(to right, rgba(128, 128, 128, 0.25) 1px, transparent 1px),
+            linear-gradient(to bottom, rgba(128, 128, 128, 0.25) 1px, transparent 1px);
+
+    background-position: right;
+    /*background-repeat: no-repeat;*/
+}
+
+.margin {
+
+    padding: 1.8% 82px 1.8% 3%;
+
+    background-size: 82px 100%;
+    background-image:
+
+    linear-gradient(to right, rgba(128, 128, 128, 0.66) 5px, transparent 1px);
+    /*linear-gradient(to right, transparent 100px, rgba(136, 120, 107, 1) 10px);*/
+    /*linear-gradient(to bottom, rgba(136, 120, 107, 0) 1px, transparent 1px);*/
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+
+h1, h2, h3, p{
+    margin-right: 10px;
+}
+
+h1 {
+    color: #b24139;
+}
+
+h2 {
+    color: #373d61
+}
+
+h3 {
+    color: rgb(32, 67, 125)
+}
+
+hr {
+    margin: 0 20px
+}
+
+img {
+    display: block;
+    margin: 10px auto;
+    /*size: 10px;*/
+}
+
+
+
+/*red pen new #b24139*/
+/*purple pen new #3f293e*/
+/*blue pen new #373d61*/
+/*orange pen new #c54b1c*/
+/*wine red new #801e32*/
+
+/*gray grid from picture rgb rgb(136, 120, 107)*/
+/*gray grid from picture proper light rgb rgb(128, 128, 128)*/
+/* gray grid from picture #88786b*/
+
+/*red pen: rgb(110, 63, 99)*/
+/*blue pen: rgb(21, 82, 162)*/
+/*purple pen: rgb(32, 67, 125)*/
